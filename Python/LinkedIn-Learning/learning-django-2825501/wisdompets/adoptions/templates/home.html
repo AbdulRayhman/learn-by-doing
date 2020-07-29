@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% block content %}
+<div>
+    {% for pet in data %}
+    <div style="border: 1px solid black; margin: 3px; padding: 5px; text-align: center; 
+    display: inline-block;">
+
+        <a href="{% url 'pet_details' pet.id %}">
+            <h3>{{pet.name}}</h3>
+        </a>
+        {% if pet.breed %}
+        <p>{{pet.breed}} </p>
+        {% endif %} {% if pet.age > 0 %}
+        <p>{{pet.age }}</p>
+        {% endif %}
+        <p class="hidden">{{pet.description }}</p>
+        <p>{{pet.submitter }}</p>
+        <p>{{pet.species }}</p>
+        <p>{{pet.sex }}</p>
+        <p>{{pet.vaccinations }}</p>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
