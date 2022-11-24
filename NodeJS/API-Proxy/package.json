@@ -1,0 +1,26 @@
+{
+  "name": "api-proxy",
+  "version": "1.0.0",
+  "description": "middleware to fetch data from third party api",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "api",
+    "proxy"
+  ],
+  "author": "Abdul Rehman (ARCode)",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "needle": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

@@ -1,0 +1,16 @@
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ex_1_practice
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ex_1_practice.deps.json
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ex_1_practice.runtimeconfig.json
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ex_1_practice.runtimeconfig.dev.json
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ex_1_practice.dll
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ref/ex_1_practice.dll
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/bin/Debug/net5.0/ex_1_practice.pdb
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.csprojAssemblyReference.cache
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.AssemblyInfoInputs.cache
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.AssemblyInfo.cs
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.csproj.CoreCompileInputs.cache
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.dll
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ref/ex_1_practice.dll
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.pdb
+/home/abdulrehman/codebase/Learning & Dev/DotNet/EX1/ex_1_practice/obj/Debug/net5.0/ex_1_practice.genruntimeconfig.cache
